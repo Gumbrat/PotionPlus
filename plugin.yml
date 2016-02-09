@@ -1,6 +1,6 @@
 authors: [Gumbratt]
 version: 1.0.0
 api: 1.12.0
-main: Gumbratt/PotionPlus/Main.php
+main: PotionPlus\PotionPlus
 load: STARTUP
 description: "Splash Potions! For Pocketmine Servers!"
